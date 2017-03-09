@@ -1,0 +1,20 @@
+{
+  "name": "example-bulletin",
+  "version": "1.0.0",
+  "description": "Example bulletin board with Vue",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/devedge/VuePractice.git"
+  },
+  "author": "devedge",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "vue": "^2.2.2",
+    "vue-resource": "^1.2.1"
+  }
+}
